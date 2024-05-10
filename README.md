@@ -26,7 +26,7 @@ git clone git@github.com:SimonSaysGiveMeSmile/Caffeinated-Treasury-Bot-ORIE-4741
 
 **Model_Predictions.ipynb**: Interactive dashboard for users to predict credit card approval based on trained models.
 
-**CAT_Model.pkl, LOG_Model.pkl, RF_Model.pkl, SVM_Model.pkl, LOG_Model2.pkl, RF_Model2.pkl, SVM_Model2.pkl**: Serialized files for trained models CatBoost, Logistic Regression, Random Forest, and SVM respectively.
+**CAT_Model.pkl, LOG_Model.pkl, RF_Model.pkl, SVM_Model.pkl**: Serialized files for trained models CatBoost, Logistic Regression, Random Forest, and SVM respectively.
 
 
 **All_Model.pkl**: a trained model that combines the result of Logistic Regression, Random Forest, and SVM respectively.
