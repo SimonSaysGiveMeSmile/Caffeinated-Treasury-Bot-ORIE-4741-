@@ -28,6 +28,9 @@ git clone git@github.com:SimonSaysGiveMeSmile/Caffeinated-Treasury-Bot-ORIE-4741
 
 **CAT_Model.pkl, LOG_Model.pkl, RF_Model.pkl, SVM_Model.pkl, LOG_Model2.pkl, RF_Model2.pkl, SVM_Model2.pkl**: Serialized files for trained models CatBoost, Logistic Regression, Random Forest, and SVM respectively.
 
+
+**All_Model.pkl**: a trained model that combines the result of Logistic Regression, Random Forest, and SVM respectively.
+
 **test.csv, test_cleaned.csv, train.csv, train_cleaned.csv**: Data files used in the project, including both raw and cleaned versions.
 
 ## Usage
